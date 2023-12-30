@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/s-KaiNet/spfx-fast-serve/master/schema/config.latest.schema.json",
+  "serve": {
+    "eslint": false,
+    "open": true,
+    "hotRefresh": false,
+    "openUrl": "https://megazap.sharepoint.com/sites/TestSite_1008/_layouts/15/workbench.aspx"
+  },
+  "cli": {
+    "isLibraryComponent": false
+  }
+}
